@@ -1,7 +1,6 @@
 # Bioinspired AI Wiki — UHH Bioinspired AI Module
 
-An LLM-generated wiki covering the **Bioinspired AI** module at UHH. 
-(Machine Learning an der TUHH)
+An LLM-generated wiki covering the **Bioinspired AI** module at UHH.
 
 Feel free to view it with [Obsidian](https://obsidian.md/).
 
