@@ -1,0 +1,11 @@
+# Obsidian workspace state
+.obsidian/
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
